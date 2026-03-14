@@ -1,7 +1,6 @@
 // Lista enlazada simple con metodos de agregar, eliminar e imprimir.
 public class main {
-
-	// Nodo de la lista enlazada.
+	
 	static class Nodo {
 		int dato;
 		Nodo siguiente;
